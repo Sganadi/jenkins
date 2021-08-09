@@ -1,4 +1,4 @@
-# Hands-on Continuous Integration and Automation with Jenkins
+# Hands-on Continuous Integration and Automation with Jenkins In Saikrishna GIt
 
 This repository contains the companion code, slides, exercises and solutions for the video course _Hands-on Continuous Integration and Automation with Jenkins_ by Packt Publishing (to be published in 2018). 
 
